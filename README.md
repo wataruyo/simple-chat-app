@@ -2,7 +2,7 @@
 ## how to install 
 ```
 git clone https://github.com/wataruyo/simple-chat-app.git
-npm init
+npm install
 ```
 ## how to run the app
 run this in the backend directory
