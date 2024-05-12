@@ -1,4 +1,7 @@
 # simple-chat-app
+![](./chatsh3.png)
+![](./chatsh2.png)
+![](./chatsh1.png)
 ## how to install 
 ```
 git clone https://github.com/wataruyo/simple-chat-app.git
